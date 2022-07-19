@@ -27,4 +27,10 @@ public class RESTAPITest {
 		System.out.println("deleteTwitter 789");
 		System.out.println("deleteTwitter 1011");
 	}
+	
+	public void AddingNew()
+	{
+		System.out.println("adding new");
+		System.out.println("adding new");	
+		}
 }
